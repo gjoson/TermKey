@@ -1,0 +1,1 @@
+plugins {\n    kotlin("android") version "1.6.10"\n    kotlin("kapt") version "1.6.10"\n    id("com.android.application") version "7.0.3"\n}\n\nallprojects {\n    repositories {\n        google()\n        mavenCentral()\n    }\n}
