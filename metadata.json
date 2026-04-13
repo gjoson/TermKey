@@ -1,0 +1,6 @@
+{
+  "name": "TermKey",
+  "description": "A web-based prototype of a custom virtual keyboard for Termux and LLM interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
