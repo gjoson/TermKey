@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="4"
+        android:rowCount="3">
+
+        <Button android:text="F1"/>
+        <Button android:text="F2"/>
+        <Button android:text="F3"/>
+        <Button android:text="F4"/>
+
+        <Button android:text="ls"/>
+        <Button android:text="cd"/>
+        <Button android:text="pwd"/>
+        <Button android:text="clear"/>
+
+        <Button android:text="Q"/>
+        <Button android:text="W"/>
+        <Button android:text="E"/>
+        <Button android:text="R"/>
+        <Button android:text="T"/>
+
+        <Button android:text="TAB"/>
+        <Button android:text="SPACE"/>
+        <Button android:text="ENTER"/>
+        <Button android:text="BACKSPACE"/>
+
+    </GridLayout>
+
+</LinearLayout>
